@@ -1,12 +1,12 @@
 <?php
 
-namespace VendorName\Skeleton\Commands;
+namespace WebplusMultimedia\AppointmentScheduler\Commands;
 
 use Illuminate\Console\Command;
 
-class SkeletonCommand extends Command
+class AppointmentSchedulerCommand extends Command
 {
-    public $signature = 'skeleton';
+    public $signature = 'appointment-scheduler';
 
     public $description = 'My command';
 
